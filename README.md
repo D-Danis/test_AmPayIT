@@ -1,10 +1,16 @@
 ## Совет от автора
 
 ### Создать виртуальное окружение 
-- python3 -m venv . venv
+```
+ python3 -m venv . venv
+```
 
 ### Активировать виртуальное окружение 
-- source .venv/bin/activate
+```
+source .venv/bin/activate
+```
 
 ### Установить необходимые зависимости 
-- pip install -r req.txt
+```
+pip install -r req.txt
+```
